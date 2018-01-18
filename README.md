@@ -1,1 +1,1 @@
-My porfolio wriiten in AngularJS and Vue
+My porfolio written in AngularJS and Vue
